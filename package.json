@@ -24,7 +24,7 @@
     "git-add": "git add dist/js/modal.js"
   },
   "dependencies": {
-    "jquery": "^3.5.1",
+    "jquery": "^3.6.0",
     "jquery-revealer": "github:pixelunion/jquery.revealer",
     "jquery-trend": "^0.1.0",
     "just-debounce": "^1.0.0"
